@@ -1,9 +1,9 @@
 # Unbeatable Tic Tac Toe with React Hooks and Styled Components
 
-Tic Tac Toe game with 3 levels of difficulty
-Easy - Random
-Medium - Random + Minimax Algorithm
-Difficult - Minimax Algorithm
+Tic Tac Toe game with 3 levels of difficulty:  
+Easy - Random  
+Medium - Random + Minimax Algorithm  
+Difficult - Minimax Algorithm  
 
 ## Setting Up
 
