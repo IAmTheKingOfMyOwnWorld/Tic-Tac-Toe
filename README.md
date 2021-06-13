@@ -8,9 +8,10 @@ Difficult - Minimax Algorithm
 ## Setting Up
 
 ### We’ll start by creating an empty project and installing necessary dependencies:
-npx create-react-app tic_tac_toe
-cd tic_tac_toe
-npm i styled-components papercss react-modal
+
+npx create-react-app tic_tac_toe  
+cd tic_tac_toe  
+npm i styled-components papercss react-modal  
 
 # Getting Started with Create React App
 
